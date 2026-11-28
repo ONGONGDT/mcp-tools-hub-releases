@@ -1,1 +1,1 @@
-{"doc_type":"catalog","format":"mth-sig/1","signatures":[{"alg":"ed25519","key_id":"cf4eaeba9fbb9b575f767f2fc2e8e5b13e29f01056dcc5693e68df8f1ccd5db5","sig":"ca9dEbgCh-zqzAGOhYCj4JrYLMyJu6qeLfBDbbcEMicJRPlP4oIPEfIIvDm-KIXqgUXuMUDMbplzakHqGmZYDg"}]}
+{"doc_type":"catalog","format":"mth-sig/1","signatures":[{"alg":"ed25519","key_id":"cf4eaeba9fbb9b575f767f2fc2e8e5b13e29f01056dcc5693e68df8f1ccd5db5","sig":"hTX2Utm98xunIxZAYahbkrXAcOqBYunP7dDtNMYkxGycMyPo7jP9QR4FGATm2HAZR7OscHwetM1JcCp0X-KAAQ"}]}
