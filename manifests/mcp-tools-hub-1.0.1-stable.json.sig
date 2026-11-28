@@ -1,0 +1,1 @@
+{"doc_type":"package-manifest","format":"mth-sig/1","signatures":[{"alg":"ed25519","key_id":"ebe4888da340a6622d8f24a74aa878978568cf6db9a83c024dc16645cc654d90","sig":"rcPMHZm7FKe74ZzcNV7dmruwooREB0PICSOOvEhNn5Bpfj76pyzlPm0POFlzZakrM-JlVJOgPjTzqG5KSfwoDg"}]}
